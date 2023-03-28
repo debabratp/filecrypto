@@ -8,6 +8,9 @@ target/
 *.iml
 *.ipr
 .idea
+.idea/.gitignore
+.idea/vcs.xml
+.idea/misc.xml
 
 ### Eclipse ###
 .apt_generated
